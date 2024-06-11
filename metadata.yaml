@@ -1,0 +1,42 @@
+_repo: The-key-to-Betsy-s-heart_73681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ives, Sarah Noble
+    aliases:
+    - Ives, Sara
+    - Ives, Noble
+    - Noble-Ives, Sarah
+    birthdate: 1864
+    deathdate: 1944
+    gutenberg_agent_id: '6379'
+    url: http://www.gutenberg.org/2009/agents/6379
+    wikipedia: https://en.wikipedia.org/wiki/Sarah_Noble_Ives
+description: Illustrated by the author, using the name Noble Ives.
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73681'
+  lccn: '16018917'
+language: en
+pgterms:marc904: https://archive.org/details/keytobetsysheart00ives/mode/2up
+pgterms:marc905: 20240302110505ives
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Love -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The key to Betsy's heart
+url: http://www.gutenberg.org/ebooks/73681
