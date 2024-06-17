@@ -1,5 +1,8 @@
 _repo: The-key-to-Betsy-s-heart_73681
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73681-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Ives, Sarah Noble
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6379
     wikipedia: https://en.wikipedia.org/wiki/Sarah_Noble_Ives
 description: Illustrated by the author, using the name Noble Ives.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73681#The-key-to-Betsy-s-heart
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
